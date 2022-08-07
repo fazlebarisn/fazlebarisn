@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just testing
+Creative and dependable WordPress Developer with 3+ years’ experience in building rich and interactive websites. Comprehensive understanding of WordPress core software, database connectivity, and its functions. Hands on experience in creating, extending and customizing WordPress themes and plugins. In-depth knowledge of installing and configuring WordPress multisite.
+I have also experience work in Laravel Framework. Hope it will be a great experience work with me.
+
+PROFESSIONAL SKILLS
+# WordPress security best practices including XSS, CSURF, MySQL Injection, and Escaping.
+# Familiar with APIs and parsing JSON/XML.
+# Well versed in creating responsive web pages.
+# Expert in modern database development.
