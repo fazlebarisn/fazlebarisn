@@ -23,3 +23,5 @@ PROFESSIONAL SKILLS
 # ⚡ Familiar with APIs and parsing JSON/XML.
 # ⚡ Well versed in creating responsive web pages.
 # ⚡ Expert in modern database development.
+
+- 📫 How to reach me: ...
