@@ -19,9 +19,7 @@ Creative and dependable WordPress Developer with 3+ years’ experience in build
 I have also experience work in Laravel Framework. Hope it will be a great experience work with me.
 
 PROFESSIONAL SKILLS
-# ⚡ WordPress security best practices including XSS, CSURF, MySQL Injection, and Escaping.
-# ⚡ Familiar with APIs and parsing JSON/XML.
-# ⚡ Well versed in creating responsive web pages.
-# ⚡ Expert in modern database development.
-
-- 📫 How to reach me: ...
+- ⚡ WordPress security best practices including XSS, CSURF, MySQL Injection, and Escaping.
+- ⚡ Familiar with APIs and parsing JSON/XML.
+- ⚡ Well versed in creating responsive web pages.
+- ⚡ Expert in modern database development.
